@@ -1,0 +1,14 @@
+{
+  "revision": 2,
+  "name": "Amara",
+  "base": "MakeHuman hm08 CC0",
+  "source_file": "../../3D/Amara_Anatomical.blend",
+  "skin_maps": [
+    "amara-skin-albedo.png",
+    "amara-skin-normal.png",
+    "amara-skin-roughness.png"
+  ],
+  "paint_mesh": "Amara_Face",
+  "source_uv_layout": "MakeHuman hm08 anatomical UV; mirror via 3D reflection, not texture-coordinate inversion",
+  "quality": "Anatomical character prototype; visual realism must be evaluated from review renders."
+}
